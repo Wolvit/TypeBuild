@@ -322,7 +322,6 @@ build({
     bundle: false,
     format: 'esm',
     target: 'es2023',
-    module: 'es2022',
     platform: 'node',
     outExtension: { '.js': '.js' },
     sourcemap: true,

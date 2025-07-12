@@ -1,10 +1,10 @@
 {
   "name": "typebuild",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "bin": {
-    "type-build": "build.js",
-    "typebuild": "build.js"
+    "type-build": "./build.js",
+    "typebuild": "./build.js"
   },
   "keywords": [
     "typescript",
