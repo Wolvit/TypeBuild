@@ -1,6 +1,6 @@
 ![npm version](https://img.shields.io/npm/v/typebuild)
 ![npm downloads](https://img.shields.io/npm/dw/typebuild)
-![license](https://www.npmjs.com/package/typebuild)
+![license](https://img.shields.io/npm/l/typebuild)
 
 # TypeBuild 🛠
 
