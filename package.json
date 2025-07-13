@@ -1,6 +1,6 @@
 {
   "name": "typebuild",
-  "version": "1.0.1",
+  "version": "1.0.7",
   "type": "module",
   "bin": {
     "type-build": "./build.js",
